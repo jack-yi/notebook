@@ -1,6 +1,9 @@
-package golang
+package main
 
+func main() {
+
+}
 
 func Test(){
-	
+
 }
