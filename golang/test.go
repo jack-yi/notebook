@@ -4,6 +4,10 @@ func main() {
 
 }
 
-func Test(){
+func Test() {
+
+}
+
+func dev1() {
 
 }
