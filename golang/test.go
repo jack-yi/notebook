@@ -11,3 +11,4 @@ func Test() {
 func dev1() {
 
 }
+func Dev() {}
