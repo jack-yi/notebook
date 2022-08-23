@@ -1,1 +1,6 @@
 package golang
+
+
+func Test(){
+	
+}
